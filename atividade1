@@ -110,13 +110,7 @@
   <hr>
   <h2 id="samples">Atividades</h2>
     <div id="images">
-      <img src="https://via.placeholder.com/120" id="sample">
-      <img src="https://via.placeholder.com/120" id="sample">
-      <img src="https://via.placeholder.com/120" id="sample">
-      <br>
-      <img src="https://via.placeholder.com/120" id="sample">
-      <img src="https://via.placeholder.com/120" id="sample">
-      <img src="https://via.placeholder.com/120" id="sample">
+      <img src="atv1-1.png" id="sample">
     </div>
   <hr>
   <h2 id="contact">Contato</h2>
