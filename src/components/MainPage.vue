@@ -5,33 +5,38 @@
 
       <v-row>
         <v-col cols="4" class="text-center">
-          <v-card color="basil" flat>
+          <v-card color="basil" flat height="100%">
             <v-card-text>
               <v-img class="mb-4" height="150" src="@/assets/profile-img.jpg" />
 
               <div class="text-body-2 font-weight-bold mb-n1">
                 Rafaella Sampaio
               </div>
-              <div class="text-body-2 font-weight-light mb-n1">
+              <div class="text-body-2 font-weight-light mb-1">
                 Ph.D. Student
               </div>
               <div class="text-body-2 font-weight-light mb-n1">
                 School of Computing and Information
               </div>
-              <div class="text-body-2 font-weight-light mb-n1">
+              <div class="text-body-2 font-weight-light mb-1">
                 University of Pittsburgh
               </div>
-              <div class="text-body-2 font-weight-light mb-n1">
+              <div class="text-body-2 font-weight-light mb-1">
                 ras555(at)pitt.edu
               </div>
-              <div class="mb-n1">
-                <v-btn icon="fa-linkedin" size="x-small" />
+              <div class="text-body-2 font-weight-light">
+                <a
+                  href="https://www.linkedin.com/in/rafaella-sampaio-de-alencar/"
+                  >LinkedIn</a
+                >
+                &nbsp;&nbsp;
+                <a href="https://github.com/Rafaellarsa">GitHub</a>
               </div>
             </v-card-text>
           </v-card>
         </v-col>
         <v-col cols="8">
-          <v-card color="basil" flat>
+          <v-card color="basil" flat height="100%">
             <v-card-text
               >I am Rafaella Sampaio de Alencar, a first-year Ph.D. student at
               the University of Pittsburgh's
@@ -47,6 +52,10 @@
                 href="https://www.gradstudies.pitt.edu/2024-25-k-leroy-irvis-fellowship"
                 >K. Leroy Irvis Fellowship</a
               >.
+            </v-card-text>
+            <v-card-text>
+              <b>Research Interests:</b> Learning Technologies; Personalization;
+              Artificial Intelligence in Education; Equity.
             </v-card-text>
           </v-card>
         </v-col>
