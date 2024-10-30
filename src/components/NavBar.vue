@@ -1,6 +1,8 @@
 <template>
   <v-app-bar>
-    <v-app-bar-title>Rafaella Sampaio</v-app-bar-title>
+    <v-app-bar-title color="deep-purple-accent-4"
+      ><span class="text-primary">Rafaella Sampaio</span></v-app-bar-title
+    >
 
     <!-- <v-tabs v-model="tab" align-tabs="end" color="deep-purple-accent-4">
       <v-tab :value="1">Landscape</v-tab>
@@ -9,9 +11,8 @@
     </v-tabs> -->
     <v-switch
       v-model="darkMode"
-      color="deep-purple-accent-4"
+      color="primary"
       label="Dark Mode"
-      value="deep-purple-accent-4"
       hide-details
       class="mr-4"
     />

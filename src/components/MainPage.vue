@@ -57,6 +57,46 @@
               <b>Research Interests:</b> Learning Technologies; Personalization;
               Artificial Intelligence in Education; Equity.
             </v-card-text>
+            <v-divider inset />
+            <v-card-text>
+              <!-- CV_Rafaella_Sampaio.pdf -->
+              <a href="../files/CV_Rafaella_Sampaio.pdf" target="_blank"
+                ><v-btn variant="outlined">Curriculum Vitae</v-btn></a
+              >
+            </v-card-text>
+            <v-divider inset />
+            <v-card-text>
+              <v-card-title class="px-0">News</v-card-title>
+              <v-list>
+                <v-list-item
+                  ><b>October/2024 - </b>Our poster, titled "Utilizing Visual
+                  Teacher Dashboards to Identify Difficult Topics for Student
+                  Learning in an Anatomy Course", was accepted in the
+                  <a href="https://csm.apta.org/"
+                    >50th Annual APTA Combined Sections Meeting (2025)</a
+                  >.</v-list-item
+                >
+                <v-list-item
+                  ><b>August/2024 - </b>Started a PhD in Information Science in
+                  the University of Pittsburgh.</v-list-item
+                >
+                <v-list-item
+                  ><b>August/2024 - </b>
+                  <a
+                    href="https://learnlab.org/certificate-manager/verify-summer-school.php?certificate_id=e9ygWHPXs2Nj8t7"
+                    >Completed</a
+                  >
+                  the 2024 LearnLab Summer School (Computer Science Education
+                  Research Track) of the Carnegie Mellon
+                  University.</v-list-item
+                >
+                <v-list-item
+                  ><b>January/2024 - </b>Joined the University of Pittsburgh and
+                  started the Master of Science in Information Science
+                  program.</v-list-item
+                >
+              </v-list>
+            </v-card-text>
           </v-card>
         </v-col>
       </v-row>
