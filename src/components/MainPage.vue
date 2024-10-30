@@ -59,8 +59,7 @@
             </v-card-text>
             <v-divider inset />
             <v-card-text>
-              <!-- CV_Rafaella_Sampaio.pdf -->
-              <a href="../files/CV_Rafaella_Sampaio.pdf" target="_blank"
+              <a href="files/CV_Rafaella_Sampaio.pdf" target="_blank"
                 ><v-btn variant="outlined">Curriculum Vitae</v-btn></a
               >
             </v-card-text>
