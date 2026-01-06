@@ -1,7 +1,7 @@
 <template>
   <v-app-bar>
     <v-app-bar-title color="deep-purple-accent-4"
-      ><span class="text-primary">Rafaella Sampaio</span></v-app-bar-title
+      ><span class="text-primary">Rafaella Sampaio de Alencar</span></v-app-bar-title
     >
 
     <!-- <v-tabs v-model="tab" align-tabs="end" color="deep-purple-accent-4">
@@ -15,7 +15,13 @@
       label="Dark Mode"
       hide-details
       class="mr-4"
-    />
+    >
+      <template v-slot:label>
+        <v-icon
+          icon="mdi-theme-light-dark"
+        />
+      </template>
+    </v-switch>
   </v-app-bar>
 </template>
 

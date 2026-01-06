@@ -10,7 +10,7 @@
               <v-img class="mb-4" height="150" src="@/assets/profile-img.jpg" />
 
               <div class="text-body-2 font-weight-bold mb-n1">
-                Rafaella Sampaio
+                Rafaella Sampaio de Alencar
               </div>
               <div class="text-body-2 font-weight-light mb-1">
                 Ph.D. Student
@@ -24,13 +24,50 @@
               <div class="text-body-2 font-weight-light mb-1">
                 ras555(at)pitt.edu
               </div>
-              <div class="text-body-2 font-weight-light">
-                <a
-                  href="https://www.linkedin.com/in/rafaella-sampaio-de-alencar/"
-                  >LinkedIn</a
-                >
+              <div>
+                <v-tooltip text="LinkedIn">
+                  <template v-slot:activator="{ props }">
+                    <v-btn
+                      v-bind="props"
+                      density="compact"
+                      variant="plain"
+                      color="primary"
+                      target="_blank"
+                      icon="mdi-linkedin"
+                      href="https://www.linkedin.com/in/rafaella-sampaio-de-alencar/"
+                    />
+                  </template>
+                </v-tooltip>
                 &nbsp;&nbsp;
-                <a href="https://github.com/Rafaellarsa">GitHub</a>
+
+                <v-tooltip text="Google Scholar">
+                  <template v-slot:activator="{ props }">
+                  <v-btn
+                    v-bind="props"
+                    density="compact"
+                    variant="plain"
+                    color="primary"
+                    target="_blank"
+                    icon="mdi-school"
+                    href="https://scholar.google.com/citations?user=vtyWdE8AAAAJ/"
+                  />
+                  </template>
+                </v-tooltip>
+                &nbsp;&nbsp;
+
+                <v-tooltip text="GitHub">
+                  <template v-slot:activator="{ props }">
+                    <v-btn
+                      v-bind="props"
+                      density="compact"
+                      variant="plain"
+                      color="primary"
+                      target="_blank"
+                      icon="mdi-github"
+                      href="https://github.com/Rafaellarsa/"
+                    />
+                  </template>
+                </v-tooltip>
               </div>
             </v-card-text>
           </v-card>
