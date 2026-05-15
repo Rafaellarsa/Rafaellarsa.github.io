@@ -1,7 +1,7 @@
 <template>
   <v-app-bar>
     <v-app-bar-title color="deep-purple-accent-4"
-      ><span class="text-primary">Rafaella Sampaio de Alencar</span></v-app-bar-title
+      ><span class="text-primary"><b>Rafaella Sampaio de Alencar</b></span></v-app-bar-title
     >
 
     <!-- <v-tabs v-model="tab" align-tabs="end" color="deep-purple-accent-4">

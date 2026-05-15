@@ -7,7 +7,7 @@
         <v-col cols="4" class="text-center">
           <v-card color="basil" flat height="100%">
             <v-card-text>
-              <v-img class="mb-4" height="150" src="@/assets/profile-img.jpg" />
+              <v-img class="mb-4" height="250" src="@/assets/profile-img.jpg" />
 
               <div class="text-body-2 font-weight-bold mb-n1">
                 Rafaella Sampaio de Alencar
@@ -94,15 +94,15 @@
               <b>Research Interests:</b> Learning Technologies; Personalization;
               Artificial Intelligence in Education; Equity.
             </v-card-text>
-            <v-divider inset />
             <v-card-text>
               <a href="files/CV_Rafaella_Sampaio.pdf" target="_blank"
                 ><v-btn variant="outlined">Curriculum Vitae</v-btn></a
-              >
+              > (Last Updated on October 31st, 2024)
             </v-card-text>
             <v-divider inset />
             <v-card-text>
               <v-card-title class="px-0">News</v-card-title>
+              <b>Last Updated:</b> October 31st, 2024.
               <v-list>
                 <v-list-item
                   ><b>October/2024 - </b>Our poster, titled "Utilizing Visual
@@ -131,6 +131,61 @@
                   started the Master of Science in Information Science
                   program.</v-list-item
                 >
+              </v-list>
+            </v-card-text>
+            <v-divider inset />
+            <v-card-text>
+              <v-card-title class="px-0">Publications</v-card-title>
+              <b>Upcoming</b>
+                <v-list-item>
+                  <a href=""><b>
+                    Using Elo to Operationalize Modeling of Aphasia Patients’ Word-Recall Practice During Recovery
+                  </b></a> <br />
+                  <u>Rafaella Sampaio de Alencar</u>, Michael Yudelson, Peter Brusilovsky, and William S. Evans <br />
+                  <i>34th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '26)</i>
+                </v-list-item>
+                <v-list-item>
+                  <a href=""><b>
+                    Integrating Smart Learning Content with Project-Based Introductory Programming Course at Community Colleges
+                  </b></a> <br />
+                  Mohammad Hassany, Can Kultur, <u>Rafaella Sampaio de Alencar</u>, Kamil Akhuseyinoglu, Christopher Bogart, Jaromir Savelka, Peter Brusilvosky <br />
+                  <i>30th Annual Consortium for Computing Sciences in Colleges - Northeastern Conference (CCSCNE '26)</i>
+                </v-list-item>
+              <b>2026</b>
+              <v-list>
+                <v-list-item>
+                  <a href="https://doi.org/10.1080/08923647.2026.2669412"><b>
+                    Supplemental AI in a Hybrid Human Anatomy Course and Its Effect on Student Performance and Engagement
+                  </b></a> <br />
+                  Reivian Berrios Barillas, Mariano de Leon, Scott Fraundorf, Peter Brusilvosky, <u>Rafaella Sampaio de Alencar</u>, Kim Nixon-Cave, and Yanshan Wang <br />
+                  <i>American Journal of Distance Education</i>
+                </v-list-item>
+
+                <v-list-item>
+                  <a href="https://doi.org/10.1145/3785022.3785106"><b>
+                    Data-Driven Evaluation of LLM-Based Ontology Concept Extraction from Programming Learning Content
+                  </b></a> <br />
+                  Rully Agus Hendrawan, <u>Rafaella Sampaio de Alencar</u>, Alice Micheli, Peter Brusilovsky, Jordan Barria-Pineda, and Sergey Sosnovsky <br />
+                  <i>16th International Learning Analytics and Knowledge Conference (LAK '26)</i>
+                </v-list-item>
+
+                <v-list-item>
+                  <a href="https://doi.org/10.1145/3770761.3777243"><b>
+                    Knowledge Component-Driven Alignment of CS1 Textbooks and Exercises
+                  </b></a> <br />
+                  Samantha Smith, Arun-Balajiee Lekshmi Narayanan, Anurata Prabha Hridi, <u>Rafaella Sampaio de Alencar</u>, Bita Akram, Arto Hellas, Juho Leinonen, Peter Brusilovsky, and Narges Norouzi <br />
+                  <i>57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026)</i>
+                </v-list-item>
+              </v-list>
+              <b>2025</b>
+              <v-list>
+                <v-list-item>
+                  <a href="https://doi.org/10.1145/3699682.3728348"><b>
+                    Integrating Expert Knowledge With Automated Knowledge Component Extraction for Student Modeling
+                  </b></a> <br />
+                  <u>Rafaella Sampaio de Alencar</u>,, Mehmet Arif Demirtas, Adittya Soukarjya Saha, Yang Shi, and Peter Brusilovsky <br />
+                  <i>33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP '25)</i>
+                </v-list-item>
               </v-list>
             </v-card-text>
           </v-card>
