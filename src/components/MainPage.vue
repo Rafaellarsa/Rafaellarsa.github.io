@@ -136,23 +136,49 @@
             <v-divider inset />
             <v-card-text>
               <v-card-title class="px-0">Publications</v-card-title>
-              <b>Upcoming</b>
+              <!-- <b>Upcoming</b>
+              <v-list>
+
+              </v-list> -->
+
+              <b>2026</b>
+              <v-list>
                 <v-list-item>
-                  <a href=""><b>
+                  <a href="https://sites.google.com/view/csedm-workshop-edm26/schedule-proceedings"><b>
+                    Ontology-Guided Knowledge Component Extraction for Programming Exercises
+                  </b></a> <br />
+                  Rully Agus Hendrawan, Shravya Suresh, <u>Rafaella Sampaio de Alencar</u>, Alice Micheli, Peter Brusilovsky and Sergey Sosnovsky <br />
+                  <i>10th Educational Data Mining in Computer Science Education Workshop (CSEDM @ EDM'26)</i>
+                </v-list-item>
+                <v-list-item>
+                  <a href="https://aclanthology.org/2026.findings-acl.1670/"><b>
+                    Automated Knowledge Component Generation and Interpretable Knowledge Tracing in Coding Problems
+                  </b></a> <br />
+                  Zhangqi Duan, Nigel Fernandez, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, <u>Rafaella Sampaio de Alencar</u>, Peter Brusilovsky, Bita Akram, and Andrew Lan <br />
+                  <i>Findings of the Association for Computational Linguistics (ACL 2026)</i>
+                </v-list-item>
+                <v-list-item>
+                  <a href="https://dl.acm.org/doi/10.1145/3796496.3811773"><b>
+                    Cracking the Case, Missing the Data: Design Tensions in Community-Led Critical Data Literacy Instruction
+                  </b></a> <br />
+                  <u>Rafaella Sampaio de Alencar</u>, Xingyu Song, Daniel Steve Cheng, Jimmara Scott, and Aakash Gautam <br />
+                  <i>2026 Conference on Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT 2026)</i>
+                  <br />* Exemplary Paper
+                </v-list-item>
+                <v-list-item>
+                  <a href="https://dl.acm.org/doi/10.1145/3774935.3806183"><b>
                     Using Elo to Operationalize Modeling of Aphasia Patients’ Word-Recall Practice During Recovery
                   </b></a> <br />
                   <u>Rafaella Sampaio de Alencar</u>, Michael Yudelson, Peter Brusilovsky, and William S. Evans <br />
                   <i>34th ACM Conference on User Modeling, Adaptation and Personalization (UMAP '26)</i>
                 </v-list-item>
-                <v-list-item>
-                  <a href=""><b>
+                 <v-list-item>
+                  <a href="https://dl.acm.org/doi/10.5555/3820586.3820612"><b>
                     Integrating Smart Learning Content with Project-Based Introductory Programming Course at Community Colleges
                   </b></a> <br />
-                  Mohammad Hassany, Can Kultur, <u>Rafaella Sampaio de Alencar</u>, Kamil Akhuseyinoglu, Christopher Bogart, Jaromir Savelka, Peter Brusilvosky <br />
+                  Mohammad Hassany, Can Kultur, <u>Rafaella Sampaio de Alencar</u>, Kamil Akhuseyinoglu, Christopher Bogart, Jaromir Savelka, and Peter Brusilvosky <br />
                   <i>30th Annual Consortium for Computing Sciences in Colleges - Northeastern Conference (CCSCNE '26)</i>
                 </v-list-item>
-              <b>2026</b>
-              <v-list>
                 <v-list-item>
                   <a href="https://doi.org/10.1080/08923647.2026.2669412"><b>
                     Supplemental AI in a Hybrid Human Anatomy Course and Its Effect on Student Performance and Engagement
@@ -160,7 +186,6 @@
                   Reivian Berrios Barillas, Mariano de Leon, Scott Fraundorf, Peter Brusilvosky, <u>Rafaella Sampaio de Alencar</u>, Kim Nixon-Cave, and Yanshan Wang <br />
                   <i>American Journal of Distance Education</i>
                 </v-list-item>
-
                 <v-list-item>
                   <a href="https://doi.org/10.1145/3785022.3785106"><b>
                     Data-Driven Evaluation of LLM-Based Ontology Concept Extraction from Programming Learning Content
@@ -168,7 +193,6 @@
                   Rully Agus Hendrawan, <u>Rafaella Sampaio de Alencar</u>, Alice Micheli, Peter Brusilovsky, Jordan Barria-Pineda, and Sergey Sosnovsky <br />
                   <i>16th International Learning Analytics and Knowledge Conference (LAK '26)</i>
                 </v-list-item>
-
                 <v-list-item>
                   <a href="https://doi.org/10.1145/3770761.3777243"><b>
                     Knowledge Component-Driven Alignment of CS1 Textbooks and Exercises
@@ -177,6 +201,7 @@
                   <i>57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026)</i>
                 </v-list-item>
               </v-list>
+
               <b>2025</b>
               <v-list>
                 <v-list-item>
