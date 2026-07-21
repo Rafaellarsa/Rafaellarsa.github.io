@@ -79,9 +79,13 @@
               the University of Pittsburgh's
               <a href="https://www.sci.pitt.edu/"
                 >School of Computing and Information</a
-              >. My advisor is
+              >. My advisor is <a href="https://erinwalker.academicwebsite.com/"
+                >Prof. Erin Walker</a
+              >, head of the
+              <a href="https://www.facetlab.pitt.edu/">FACETLab</a>.
+              I Also collaborate and work with
               <a href="https://sites.pitt.edu/~peterb/"
-                >Prof. Dr. Peter Brusilovsky</a
+                >Prof. Peter Brusilovsky</a
               >, head of the
               <a href="http://adapt2.sis.pitt.edu/wiki/PAWS">PAWS Lab</a>. I am
               a recipient of the
@@ -91,45 +95,39 @@
               >.
             </v-card-text>
             <v-card-text>
-              <b>Research Interests:</b> Learning Technologies; Personalization;
-              Artificial Intelligence in Education; Equity.
+              <b>Research Interests:</b> Learning Technologies; Personalized or Adaptive Learning Environments; Artificial Intelligence for Education; Human-Computer Interaction; Equity and Technology for the Developing World.
             </v-card-text>
             <v-card-text>
               <a href="files/CV_Rafaella_Sampaio.pdf" target="_blank"
                 ><v-btn variant="outlined">Curriculum Vitae</v-btn></a
-              > (Last Updated on October 31st, 2024)
+              > (Last Updated on July 21st, 2026)
             </v-card-text>
             <v-divider inset />
             <v-card-text>
-              <v-card-title class="px-0">News</v-card-title>
-              <b>Last Updated:</b> October 31st, 2024.
+              <v-card-title class="px-0">Recent News</v-card-title>
+              <b>Last Updated:</b> July 21st, 2026.
               <v-list>
                 <v-list-item
-                  ><b>October/2024 - </b>Our poster, titled "Utilizing Visual
-                  Teacher Dashboards to Identify Difficult Topics for Student
-                  Learning in an Anatomy Course", was accepted in the
-                  <a href="https://csm.apta.org/"
-                    >50th Annual APTA Combined Sections Meeting (2025)</a
+                  ><b>July/2026 - </b>Became a member of the <a href="https://www.facetlab.pitt.edu/">FACETLab</a>,
+                  working with Professor <a href="https://erinwalker.academicwebsite.com/"
+                >Erin Walker</a> as my main Ph.D. advisor.
+                </v-list-item>
+                <v-list-item
+                  ><b>July/2026 - </b>Finished a two-month research internship at the University of South-Eastern Norway, USN, collaborating with
+                  Professors <a
+                    href="https://www.usn.no/english/about/contact-us/employees/boban-vesin"
+                    >Boban Vesin</a
+                  > and
+                  <a
+                    href="https://www.usn.no/english/about/contact-us/employees/katerina-mangaroska"
+                    >Katerina Mangaroska</a
                   >.</v-list-item
                 >
                 <v-list-item
-                  ><b>August/2024 - </b>Started a PhD in Information Science in
-                  the University of Pittsburgh.</v-list-item
+                  ><b>June/2026 - </b>Our paper <a href="https://doi.org/10.1145/3796496.3811773" target="_blank" rel="noopener noreferrer">Cracking the Case, Missing the Data: Design Tensions in Community-Led Critical Data Literacy Instruction</a> received an Exemplary Paper (Honorable Mention) award from RESPECT 2026!</v-list-item
                 >
                 <v-list-item
-                  ><b>August/2024 - </b>
-                  <a
-                    href="https://learnlab.org/certificate-manager/verify-summer-school.php?certificate_id=e9ygWHPXs2Nj8t7"
-                    >Completed</a
-                  >
-                  the 2024 LearnLab Summer School (Computer Science Education
-                  Research Track) of the Carnegie Mellon
-                  University.</v-list-item
-                >
-                <v-list-item
-                  ><b>January/2024 - </b>Joined the University of Pittsburgh and
-                  started the Master of Science in Information Science
-                  program.</v-list-item
+                  ><b>April/2026 - </b>Presented our paper <a href="https://doi.org/10.1145/3785022.3785106" target="_blank" rel="noopener noreferrer">Data-Driven Evaluation of LLM-Based Ontology Concept Extraction from Programming Learning Content</a> at LAK '26, in Bergen, Norway.</v-list-item
                 >
               </v-list>
             </v-card-text>
@@ -176,14 +174,14 @@
                   <a href="https://dl.acm.org/doi/10.5555/3820586.3820612"><b>
                     Integrating Smart Learning Content with Project-Based Introductory Programming Course at Community Colleges
                   </b></a> <br />
-                  Mohammad Hassany, Can Kultur, <u>Rafaella Sampaio de Alencar</u>, Kamil Akhuseyinoglu, Christopher Bogart, Jaromir Savelka, and Peter Brusilvosky <br />
+                  Mohammad Hassany, Can Kultur, <u>Rafaella Sampaio de Alencar</u>, Kamil Akhuseyinoglu, Christopher Bogart, Jaromir Savelka, and Peter Brusilovsky <br />
                   <i>30th Annual Consortium for Computing Sciences in Colleges - Northeastern Conference (CCSCNE '26)</i>
                 </v-list-item>
                 <v-list-item>
                   <a href="https://doi.org/10.1080/08923647.2026.2669412"><b>
                     Supplemental AI in a Hybrid Human Anatomy Course and Its Effect on Student Performance and Engagement
                   </b></a> <br />
-                  Reivian Berrios Barillas, Mariano de Leon, Scott Fraundorf, Peter Brusilvosky, <u>Rafaella Sampaio de Alencar</u>, Kim Nixon-Cave, and Yanshan Wang <br />
+                  Reivian Berrios Barillas, Mariano de Leon, Scott Fraundorf, Peter Brusilovsky, <u>Rafaella Sampaio de Alencar</u>, Kim Nixon-Cave, and Yanshan Wang <br />
                   <i>American Journal of Distance Education</i>
                 </v-list-item>
                 <v-list-item>
